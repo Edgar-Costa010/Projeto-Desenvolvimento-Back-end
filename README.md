@@ -1,6 +1,6 @@
-# Projeto-Backend
+# Projeto: Desenvolvimento Back-end
 
-Trabalho acadêmico da disciplina Eletiva IV - Projeto multidisciplinar, do 5º período da graduação em Análise e desenvolvimento de Sistemas da Universidade Uninter - Centro Universitário Internacional
+Trabalho acadêmico para a disciplina Eletiva IV: Projeto Multidisciplinar de Análise e Desenvolvimento de Sistemas, do 5º período da graduação em ADS, da Universidade Uninter - Centro Universitário Internacional
 
 # VidaPlus – Sistema de Gestão Hospitalar (SGHSS)
 
@@ -73,7 +73,7 @@ O **VidaPlus** é um Sistema de Gestão Hospitalar e Serviços de Saúde desenvo
 
 -------------------------------------------------
 
-## 🔗 Endpoints Principais da API
+## Principais Endpoints da API
 
 | Método | Endpoint                  | Descrição                        | Acesso          |
 |--------|---------------------------|----------------------------------|-----------------|
